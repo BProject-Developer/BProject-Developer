@@ -46,7 +46,7 @@ Besides working on my personal projects, I'm also part of **DecaTech**, a passio
 ## 📫 Let's Connect
 
 - 📷 Instagram: [@aaliefbintang](https://instagram.com/aaliefbintang?czAxNjVpd2RiZWpn)  
-- 📩 Email: [bprojectdevelopergmail.com]  
+- 📩 Email: [bprojectdeveloper@gmail.com]  
 - 💬 WhatsApp: [+6285815570557](https://wa.me/6285815570557)
 ---
 
