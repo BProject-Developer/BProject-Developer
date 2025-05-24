@@ -54,3 +54,8 @@ Besides working on my personal projects, I'm also part of **DecaTech**, a passio
 > _"Age doesn't limit passion, and passion doesn't wait for age."_  
 > — Alief Bintang Ramadhan (BProject Developer)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bproject-developer/count.svg?"  />
+</div>
+
+###
