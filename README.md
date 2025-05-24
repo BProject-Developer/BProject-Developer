@@ -30,7 +30,7 @@ Besides working on my personal projects, I'm also part of **DecaTech**, a passio
 
 - **Languages:** JavaScript, Python, PHP, C/C++, Dart  
 - **Frameworks:** React, Laravel, Flutter, Express  
-- **Tools:** Figma, VSCode, Photoshop, OBS Studio  
+- **Tools:** Figma, VSCode, Davinci, Resolume
 - **Hardware:** ESP32, Arduino, Raspberry Pi
 
 ---
@@ -45,10 +45,9 @@ Besides working on my personal projects, I'm also part of **DecaTech**, a passio
 
 ## 📫 Let's Connect
 
-- 📷 Instagram: [@bprojectdeveloper](https://instagram.com/bprojectdeveloper)  
-- 📩 Email: [available upon request or GitHub discussions]  
-- 🌐 More coming soon...
-
+- 📷 Instagram: [@aaliefbintang](https://instagram.com/aaliefbintang?czAxNjVpd2RiZWpn)  
+- 📩 Email: [bprojectdevelopergmail.com]  
+- 💬 WhatsApp: [+6285815570557](https://wa.me/6285815570557)
 ---
 
 > _"Age doesn't limit passion, and passion doesn't wait for age."_  
