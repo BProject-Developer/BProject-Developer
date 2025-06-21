@@ -12,7 +12,7 @@ Welcome to **BProject Developer**'s GitHub profile.
 I'm a 14-year-old tech enthusiast from Surabaya, Indonesia 🇮🇩  
 Currently working as a **Full-Stack Developer**, **UI/UX Designer**, **Photographer**, and **Sound Engineer** — all under my developer identity: **BProject Developer**.
 
-Besides working on my personal projects, I'm also part of **DecaTech**, a passionate and innovative team focused on creating impactful tech solutions. Within the team, I contribute as a **Programmer** and **IoT Engineer**.
+Besides working on my personal projects, I'm also part of **CodeSphere Community** & **DecaTech**, a passionate and innovative team focused on creating impactful tech solutions. Within the team, I contribute as a **Programmer** and **IoT Engineer**.
 
 ---
 
