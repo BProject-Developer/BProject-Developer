@@ -1,0 +1,20 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Buat Commit
+        run: |
+          echo "Update $(date)" >> log.txt
+          git config user.name "BProject-Developer"
+          git config user.email "bprojectdeveloper@gmail.com"
+          git add .
+          git commit -m "auto update $(date)" || echo "No changes to commit"
+          git push
