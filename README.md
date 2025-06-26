@@ -3,7 +3,7 @@
 Welcome to **BProject Developer**'s GitHub profile.
 
 ---
-<img src="https://raw.githubusercontent.com/bproject-developer/bproject-developer/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Arduino/Arduino/output/snake.svg" alt="Snake animation" />
 
 ###
 
