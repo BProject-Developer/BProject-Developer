@@ -71,7 +71,7 @@ Besides working on my personal projects, I'm also part of **CodeSphere Community
 
 > _"Age doesn't limit passion, and passion doesn't wait for age."_  
 > — Alief Bintang Ramadhan (BProject Developer)
-
+---
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bproject-developer&radius=16&theme=redical&area=true&order=5&hide_border=true&custom_title=BProject%20Developer%20Contribution's%20Graphs" height="300" alt="activity-graph graph"  />
 </div>
