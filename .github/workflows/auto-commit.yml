@@ -1,53 +1,35 @@
-name: Auto commit
+name: Auto Commit
 
 on:
-
-  push:
-    branches:
-      - master
-
   schedule:
-  - cron: "43 20,0,0 * * 1,3" # See https://crontab.guru/#0_7,9,11_*_*_1,3
+    - cron: "47 20 * * *"
+  workflow_dispatch:
+
+# Pastikan workflow punya izin tulis ke repo
+permissions:
+  contents: write
 
 jobs:
-  auto_commit:
+  commit:
     runs-on: ubuntu-latest
     steps:
-      - name: DEBUG 
-        run: echo "::debug::Ref = ${{github.ref}}"
-      - uses: actions/checkout@v3      
+      - name: Checkout repo (dengan credential untuk push)
+        uses: actions/checkout@v4
         with:
-         persist-credentials: false
-         fetch-depth: 0
+          persist-credentials: true
+          fetch-depth: 0
 
-      - name: Modify last update
+      - name: Setup Git user
         run: |
-          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
-          echo $d > LAST_UPDATED
-          
-      - name: Commit changes
+          git config user.name "BProject-Developer"
+          git config user.email "bprojectdeveloper@gmail.com"
+
+      - name: Update log file
         run: |
-          git config --local user.email "mazipanneh@gmail.com"
-          git config --local user.name "mazipan"
-          git add -A
-          
-          arr[0]="chore(bot): 😂 auto commit"
-          arr[1]="chore(bot): 😱 auto commit"
-          arr[2]="chore(bot): 👿 auto commit"
-          arr[3]="chore(bot): 💩 auto commit"
-          arr[4]="chore(bot): 🙏 auto commit"
-          arr[5]="chore(bot): 🙈 auto commit"
-          arr[6]="chore(bot): 🐐 auto commit"
-          arr[7]="chore(bot): 🤖 auto commit"
-          arr[8]="chore(bot): 🟩 auto commit"
-          arr[9]="chore(bot): 👻 auto commit"
-          
-          rand=$[$RANDOM % ${#arr[@]}]
-          
-          git commit -m "${arr[$rand]}"
-          
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          directory: "."
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          echo "Update: $(date -u)" >> log.txt
+          git add log.txt
+          git commit -m "auto update $(date -u)" || echo "No changes to commit"
+
+      - name: Push changes ke main
+        run: |
+          git push origin HEAD:main
