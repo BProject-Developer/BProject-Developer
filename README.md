@@ -14,7 +14,7 @@ Welcome to **BProject Developer**'s GitHub profile.
 ## 👤 About Me
 
 I'm a 15-year-old tech enthusiast from Surabaya, Indonesia 🇮🇩  
-Currently working as a **Full-Stack Developer**, **UI/UX Designer**, **Photographer**, and **Sound Engineer** — all under my developer identity: **BProject Developer**.
+Currently working as a **Full-Stack Developer**, **UI/UX Designer**, **Cinematographer**, **Audio engineer** and **Sound Engineer** — all under my developer identity: **BProject Developer**.
 
 Besides working on my personal projects, I'm also part of **CodeSphere Community** & **DecaTech**, a passionate and innovative team focused on creating impactful tech solutions. Within the team, I contribute as a **Programmer** and **IoT Engineer**.
 
@@ -33,9 +33,9 @@ Besides working on my personal projects, I'm also part of **CodeSphere Community
 ## 🛠 Tech Stack
 
 - **Languages:** JavaScript, Python, PHP, C/C++, Dart  
-- **Frameworks:** React, Laravel, Flutter, Express  
-- **Tools:** Figma, VSCode, Davinci, Resolume
-- **Hardware:** ESP32, Arduino, Raspberry Pi
+- **Frameworks:** React, Laravel, Flutter, Express, etc
+- **Tools:** Figma, VSCode, Davinci, Resolume, Cubase, Adobe, ProTools, etc
+- **Hardware:** ESP32, Arduino, Raspberry Pi, etc
   
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
