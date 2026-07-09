@@ -63,7 +63,7 @@ Besides working on my personal projects, I'm also part of **CodeSphere Community
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Alief Bintang Ramadhan] (https://www.linkedin.com/in/alief-bintang-ramadhan) 
+- 💼 LinkedIn: [Alief Bintang Ramadhan](https://www.linkedin.com/in/alief-bintang-ramadhan) 
 - 📷 Instagram: [@aaliefbintang](https://instagram.com/aaliefbintang?czAxNjVpd2RiZWpn)  
 - 📩 Email: [bprojectdeveloper@gmail.com]  
 - 💬 WhatsApp: [+6285815570557](https://wa.me/6285815570557)
