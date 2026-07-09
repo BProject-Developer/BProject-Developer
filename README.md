@@ -32,8 +32,8 @@ Besides working on my personal projects, I'm also part of **CodeSphere Community
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript, Python, PHP, C/C++  
-- **Frameworks:** React, Laravel, Flutter
+- **Languages:** JavaScript, Python, PHP, C++  
+- **Frameworks:** React, Laravel
 - **Tools:** Figma, VSCode, Davinci, Resolume, Cubase, Adobe, ProTools, etc
 - **Hardware:** ESP32, Arduino, Raspberry Pi, etc
   
