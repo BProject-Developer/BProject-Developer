@@ -1,3 +1,5 @@
+udah gak maen ginian
+
 # Hi, I'm Alief Bintang Ramadhan! 👋
 
 Welcome to **BProject Developer**'s GitHub profile.
